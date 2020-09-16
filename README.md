@@ -5,7 +5,6 @@ These are the course materials for the Johns Hopkins Data Science Specialization
 
 https://www.coursera.org/specialization/jhudatascience/1
 
-Materials are under development and subject to change. 
 
 ### License
 
